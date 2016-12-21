@@ -3,3 +3,4 @@ Git is free software,it is good.
 Git second step.
 Git diff.
 day5
+day6 stage test.
