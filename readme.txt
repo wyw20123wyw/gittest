@@ -12,4 +12,4 @@ day9 create a  new branch and simple
 day9 create a  new branch & simple.
 >>>>>>> featurel
 day10 ,create the new branch
-hi,my git 
+hi,my hello 
